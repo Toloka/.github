@@ -4,7 +4,6 @@ If you believe you have found a security vulnerability in Toloka, we encourage y
 
 ## Reporting a Vulnerability
 
-- Report a detailed mail about vulnerability to secrurity@toloka.ai as soon as possible.
+- Report a detailed mail about vulnerability to security@toloka.ai as soon as possible.
 - Please add as much information about vulnerability that you are able and willing to provide.
-- Once we've assessed your report you will receive a response from us.
-
+- Once we've assessed your report you will receive a response from us within 2 working days.
